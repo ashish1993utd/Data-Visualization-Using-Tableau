@@ -5,4 +5,4 @@ I have analyzed IMDB movie Data set to answer following questions
 
 Question1 : How does Gross Earnings of the movie relate to Movie budget?
 
-Question2 : How does the popularity of an Actor relates to Movie's Success?
+Question2 : How does the popularity of an Actor relates to Movie's Success
